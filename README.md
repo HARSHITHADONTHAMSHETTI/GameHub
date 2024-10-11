@@ -11,6 +11,9 @@ The user can select the game they want to play by clicking the corresponding but
 - Make sure you have python3 and tkinter library installed on your computer.
 - Go to the project directory in your terminal.
 - Run the following command to start the program.
+- cd folderpath
+-pip install pygame
+-python game_hub.py
 <br />```python3 game_hub.py```
 cd folderpath
 pip install pygame
