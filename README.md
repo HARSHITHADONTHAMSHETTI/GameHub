@@ -12,6 +12,9 @@ The user can select the game they want to play by clicking the corresponding but
 - Go to the project directory in your terminal.
 - Run the following command to start the program.
 <br />```python3 game_hub.py```
+cd folderpath
+pip install pygame
+python game_hub.py
 
 ## Game Scripts
 The game scripts for the Ping Pong, Tic-Tac-Toe, and Snake games must be in the same directory as the game_hub.py file. The scripts should be named ping_pong.py, tic_tac_toe.py, and snake.py respectively.
